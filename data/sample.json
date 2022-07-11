@@ -1,0 +1,50 @@
+[
+    {
+        "id": "623c964cbba4e8c3e63e61dd",
+        "age": 21,
+        "name": "Porter Salazar",
+        "gender": "male",
+        "email": "portersalazar@qnekt.com",
+        "phone": "+49 (957) 532-3184"
+    },
+    {
+        "id": "623c964c93cbbeac70c5d16a",
+        "age": 40,
+        "name": "Guerra Rivas",
+        "gender": "male",
+        "email": "guerrarivas@qnekt.com",
+        "phone": "+49 (979) 596-2313"
+    },
+    {
+        "id": "623c964ce0a96389a853ca0b",
+        "age": 34,
+        "name": "Jamie Collins",
+        "gender": "female",
+        "email": "jamiecollins@qnekt.com",
+        "phone": "+49 (867) 460-2194"
+    },
+    {
+        "id": "623c964c3dd2c61e7845ffe5",
+        "age": 21,
+        "name": "Winters Hopper",
+        "gender": "male",
+        "email": "wintershopper@qnekt.com",
+        "phone": "+49 (922) 448-2501"
+    },
+    {
+        "id": "623c964c8fd91dc59405cafd",
+        "age": 32,
+        "name": "Minerva Moody",
+        "gender": "female",
+        "email": "minervamoody@qnekt.com",
+        "phone": "+49 (919) 507-2717"
+    },
+    {
+        "id": "623c964c8103005fe6363a75",
+        "age": 28,
+        "name": "Edwards Acosta",
+        "gender": "male",
+        "email": "edwardsacosta@qnekt.com",
+        "phone": "+49 (998) 535-2477"
+    }
+]
